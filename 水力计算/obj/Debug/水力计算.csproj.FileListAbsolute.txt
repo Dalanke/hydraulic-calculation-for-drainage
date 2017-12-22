@@ -1,0 +1,9 @@
+E:\Toys\水力计算\水力计算\bin\Debug\水力计算.exe.config
+E:\Toys\水力计算\水力计算\bin\Debug\水力计算.exe
+E:\Toys\水力计算\水力计算\bin\Debug\水力计算.pdb
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.csprojResolveAssemblyReference.cache
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.Form1.resources
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.Properties.Resources.resources
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.csproj.GenerateResource.Cache
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.exe
+E:\Toys\水力计算\水力计算\obj\Debug\水力计算.pdb
